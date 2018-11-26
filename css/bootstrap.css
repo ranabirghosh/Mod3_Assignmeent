@@ -4097,9 +4097,9 @@ input[type="button"].btn-block {
     -ms-flex-preferred-size: auto;
     flex-basis: auto;
   }
-  .navbar-expand-sm .navbar-toggler {
+  /*.navbar-expand-sm .navbar-toggler {
     display: none;
-  }
+  }*/
 }
 
 @media (max-width: 767.98px) {
